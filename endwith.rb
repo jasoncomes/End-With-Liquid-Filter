@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# endwith / https://www.notion.so/highereducation/endwith-8bded117db104bbe8bf3deab60b13cba
+# endwith / https://github.com/jasoncomes/End-With-Liquid-Filter
 # This will take a given string and add text to the end of it. The text will not be added to the given string if the string already ends with the text.
 # {{ string | endwith: append }}
 
