@@ -17,8 +17,6 @@
 
 ## **Example**
 
----
-
 ### Input
 
     {{ "https://google.com" | endwith: "/feeling-lucky/" }}
